@@ -1,4 +1,4 @@
-Exploratory Data Analysis
+Exploratory Data Analysis:
 
 This Jupyter Notebook provides a basic framework for analyzing the student performance dataset. It includes:
 
